@@ -4,4 +4,4 @@ tapi belum selesai
 
 tambah di github
 
-tambah lagi
+tambah di lokal
